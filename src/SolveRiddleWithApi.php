@@ -1,6 +1,16 @@
 <?php
 require_once __DIR__ . '/../vendor/autoload.php';
 
+
+/**
+ * 
+ * Solves the riddle using the blocks gotten from the api,
+ * performs an Api call to compare elements
+ * 
+ * @author  guerreroglez@gmail.com
+ */
+
+
 $token = '899d7911-ad53-4d71-855c-5d17a2665da7';
 $shuffledBlocks = array("M20WPJUpqdmWwQNFYcyp4RqkMMA6eEfL7aG6JB8lBq7HWQduzKbFu2O5XbQw2wjzad8pgxjEt4SX0WSbVV2JiBcOsbASnhd5i9qa", 
                 "IVhP49lBcL6SmWIQVbQOV7Lx64swBomuf2fK9X4cuxr6VKRSjZT6sZEPIhoDWwITYc7ZX3izBJIrVNDoQ6nq0JP1Clui3EUaMQCX", 
