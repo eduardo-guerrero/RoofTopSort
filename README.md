@@ -17,8 +17,8 @@ php composer.phar install
 
 To run the project visit the following urls 
 
-    http://your_host/SolveRiddleWithMock.php
-    http://your_host/SolveRiddleWithApi.php
+    http://your_host/src/SolveRiddleWithMock.php
+    http://your_host/src/SolveRiddleWithApi.php
 
 
 
