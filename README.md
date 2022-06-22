@@ -22,7 +22,7 @@ To run the project visit the following urls
 
 
 
-Run the test, within the RoofTopSort folder type 
+To run the test, within the RoofTopSort folder type in
 ```bash
 ./vendor/bin/phpunit --bootstrap vendor/autoload.php tests
 ```
