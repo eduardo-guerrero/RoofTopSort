@@ -15,8 +15,7 @@ cd RoofTopSort
 php composer.phar install
 ```
 
-Run the project 
-    Visit the following urls 
+To run the project visit the following urls 
 
     http://your_host/SolveRiddleWithMock.php
     http://your_host/SolveRiddleWithApi.php
