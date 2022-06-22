@@ -2,23 +2,33 @@
 coding Challenge
 
 
-How to set up and run the project 
+# Installation
 
-- Clone the repository
-    git clone https://github.com/eduardo-guerrero/RoofTopSort.git
-
+Clone the repository
+```bash
+git clone https://github.com/eduardo-guerrero/RoofTopSort.git
+```
     
-- install dependencies
-    cd RoofTopSort
-    php composer.phar install
+Install dependencies
+```bash
+cd RoofTopSort
+php composer.phar install
+```
+
+Run the project 
+    Visit the following urls 
+
+    http://your_host/SolveRiddleWithMock.php
+    http://your_host/SolveRiddleWithApi.php
 
 
-- run the project
-    SolveRiddleWithMock.php
-    SolveRiddleWithApi.php
 
-- run the test
-    ./vendor/bin/phpunit --bootstrap vendor/autoload.php tests
+Run the test
+```bash
+./vendor/bin/phpunit --bootstrap vendor/autoload.php tests
+```
 
+To check out the project on the web 
 
-
+    http://146.190.40.133/src/SolveRiddleWithMock.php
+    http://146.190.40.133/src/SolveRiddleWithApi.php
