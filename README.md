@@ -17,8 +17,8 @@ php composer.phar install
 
 To run the project visit the following urls 
 
-    http://your_host/src/SolveRiddleWithMock.php
-    http://your_host/src/SolveRiddleWithApi.php
+    http://place_your_ip/RoofTopSort/src/SolveRiddleWithMock.php
+    http://place_your_ip/RoofTopSort/src/SolveRiddleWithApi.php
 
 
 
@@ -29,5 +29,5 @@ To run the test, within the RoofTopSort folder type in
 
 To check out the project on the web 
 
-    http://146.190.40.133/src/SolveRiddleWithMock.php
-    http://146.190.40.133/src/SolveRiddleWithApi.php
+    http://146.190.40.133/RoofTopSort/src/SolveRiddleWithMock.php
+    http://146.190.40.133/RoofTopSort/src/SolveRiddleWithApi.php
