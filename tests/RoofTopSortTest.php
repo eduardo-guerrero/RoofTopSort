@@ -11,11 +11,11 @@ final class RoofTopSortTest extends TestCase{
 
         //when
         $comparator = new ComparatorMock;        
-        $roofTopSort = new RoofTopSort( $comparator );
+        $sut = new RoofTopSort( $comparator );
 
         //then
         $this->assertEquals(
-            $roofTopSort->check( $shuffledBlocks, $token ),
+            $sut->check( $shuffledBlocks, $token ),
             $expectedBlocks
         );
     }
